@@ -266,7 +266,7 @@ img {
 }
 
 .results .statsBar .stats {
-  color: #000;
+  color: #70757a;
   font-size: 0.75rem;
 }
 
@@ -314,7 +314,7 @@ img {
   .results .searchResults .resultItem .resultTitle {
     font-size: 1.5rem;
     line-height: 1.75rem;
-    margin-bottom: 05rem;
+    margin-bottom: 0.5rem;
   }
 }
 
