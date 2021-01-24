@@ -1,4 +1,4 @@
-# Search-App-Clone
+# YouSearch
 https://yousearch.netlify.app/ </br></br>
 ![search-app-clone](yousearch.gif) </br>
 Features includes - </br>
