@@ -1,5 +1,5 @@
 # Search-App-Clone
-![Search_app_clone](yousearch.gif) </br>
+https://yousearch.netlify.app/ </br>
 Features includes - </br>
 * Responsive</br>
 * Mobile-first </br>
